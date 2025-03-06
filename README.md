@@ -3,26 +3,23 @@
   <img src="https://res.cloudinary.com/murste/image/upload/v1698907632/stevolve_x8ioeu.png" alt="Stephen Murichu's Logo" width="100" />
 </div>
 
-# Django-inventory-management
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
-[![Python Version](https://img.shields.io/badge/Python-3.12-green)](https://www.python.org/downloads/)
+## Introduction
 
-## Table of Contents
-- [Django-inventory-management](#django-inventory-management)
-  - [Table of Contents](#table-of-contents)
-  - [Description](#description)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-    - [Clone the Repository](#clone-the-repository)
-    - [With Docker](#with-docker)
-    - [Without Docker](#without-docker)
-      - [On Linux](#on-linux)
-      - [On Windows](#on-windows)
-  - [Screenshots](#screenshots)
-  - [Authors](#authors)
+The Django Inventory Management System is a robust, web-based application designed to streamline and optimize inventory tracking, stock management, and transactional operations. Built using the Django framework, it provides a seamless and intuitive interface for managing product inventory efficiently. With powerful features such as automated stock alerts, order processing, and detailed reports, this system ensures accuracy, security, and scalability for businesses of all sizes.
 
-## Description
-This Django application offers a solution for managing business operations with an emphasis on user experience and modern web technologies. It integrates Bootstrap for front-end design and employs Ajax for dynamic sales creation. The application features models for user profiles, vendors, customers, and transactions, including billing, invoicing, and inventory management.
+## Features
+
+User Authentication (Admin & Staff roles)
+
+Product Management (Add, Update, Delete, View products)
+
+Stock Management (Track stock levels, Restock alerts)
+
+Order Processing (Sales & Purchases tracking)
+
+Reports & Analytics (Sales, Stock, and Order Reports)
+
+Secure & Scalable 
 
 ## Prerequisites
 - **Python installed**: Ensure Python is installed on your system. You can download it from the official [Python website](https://www.python.org/).
