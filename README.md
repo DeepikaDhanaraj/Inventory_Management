@@ -1,25 +1,22 @@
 
-<div align="center">
-  <img src="https://res.cloudinary.com/murste/image/upload/v1698907632/stevolve_x8ioeu.png" alt="Stephen Murichu's Logo" width="100" />
-</div>
+# Django Inventory Management System
 
-## Introduction
+## Introduction   
 
 The Django Inventory Management System is a robust, web-based application designed to streamline and optimize inventory tracking, stock management, and transactional operations. Built using the Django framework, it provides a seamless and intuitive interface for managing product inventory efficiently. With powerful features such as automated stock alerts, order processing, and detailed reports, this system ensures accuracy, security, and scalability for businesses of all sizes.
 
 ## Features
 
-User Authentication (Admin & Staff roles)
+- **User Authentication (Admin & Staff roles)
 
-Product Management (Add, Update, Delete, View products)
+- **Product Management (Add, Update, Delete, View products)
 
-Stock Management (Track stock levels, Restock alerts)
+- **Stock Management (Track stock levels, Restock alerts)
 
-Order Processing (Sales & Purchases tracking)
+- **Order Processing (Sales & Purchases tracking)
 
-Reports & Analytics (Sales, Stock, and Order Reports)
-
-Secure & Scalable 
+- **Reports & Analytics (Sales, Stock, and Order Reports)
+ 
 
 ## Prerequisites
 - **Python installed**: Ensure Python is installed on your system. You can download it from the official [Python website](https://www.python.org/).
