@@ -29,7 +29,7 @@ Follow these steps to install the necessary dependencies and set up the applicat
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/munuhee/sales-and-inventory-management.git
+https://github.com/DeepikaDhanaraj/Inventory_Management.git
 cd sales-and-inventory-management
 ```
 
