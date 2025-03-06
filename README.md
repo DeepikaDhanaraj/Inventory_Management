@@ -114,3 +114,6 @@ cd sales-and-inventory-management
 
 </details>
 
+## How to Use the Django Inventory Management System – Demo Video
+![Watch the video](https://github.com/DeepikaDhanaraj/Inventory_Management/blob/main/06.03.2025_19.16.34_REC.mp4)
+
